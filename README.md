@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/shamstabrez_01" target="blank"><img src="https://img.shields.io/twitter/follow/shamstabrez_01?logo=twitter&style=for-the-badge" alt="shamstabrez_01" /></a> </p>
 
-- 🔭 I’m currently working on Medical Laboratory **Biochemistry**
+- 🔭 I’m currently working on Medical Laboratory **Technologist**
 
-- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT**
+- 🌱 I’m currently learning **HTML, CSS, Devops**
 
 - 📫 How to reach me **tshams684@gmail.com**
 
