@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Medical Laboratory **Technologist**
 
-- 🌱 I’m currently learning **HTML, CSS, Devops**
+- 🌱 I’m currently learning **HTML, CSS**
 
 - 📫 How to reach me **tshams684@gmail.com**
 
