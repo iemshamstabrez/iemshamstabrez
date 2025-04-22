@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Shams Tabrez</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Ai developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iemshamstabrez&label=Profile%20views&color=0e75b6&style=flat" alt="iemshamstabrez" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Medical Laboratory **Technologist**
 
-- 🌱 I’m currently learning **HTML, CSS**
+- 🌱 I’m currently learning **Python for Ai Dvelopment**
 
 - 📫 How to reach me **tshams684@gmail.com**
 
